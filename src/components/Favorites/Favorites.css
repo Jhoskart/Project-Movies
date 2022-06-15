@@ -1,0 +1,29 @@
+
+.display1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: space-between;
+    
+    
+}
+
+.margin2{
+    margin-bottom: 20px;
+}
+
+.display{
+    display: flex;
+    flex-wrap: wrap;
+    height: 350px;
+    width: 250px;
+    object-fit: cover;
+    
+}
+
+.estilo{
+    font-family: "Rajdhani";
+    color: aliceblue;
+    margin-left: 20px;
+}
