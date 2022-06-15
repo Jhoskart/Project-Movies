@@ -13,8 +13,6 @@ export class Buscador extends Component {
    
     this.state = {
       title: "",
-      currentMovie: 0,
-      setCurrentMovie: function(movie) { return movie }
     };
   }
   
